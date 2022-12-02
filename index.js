@@ -1,8 +1,10 @@
 import 'dotenv/config'
-import axios from 'axios'
+// import axios from 'axios'
 import linebot from 'linebot'
 import schedule from 'node-schedule'
-import temp from './templates/temp.js'
+// import temp from './templates/temp.js'
+import flex from './templates/flex.js'
+import writejson from './utils/writejson.js'
 
 // import * as kkbox from '@kkbox/kkbox-javascript-developer-sdk'
 
@@ -30,13 +32,36 @@ const bot = linebot({
   channelAccessToken: process.env.CHANNEL_ACCESS_TOKEN
 })
 
+const songs = []
 bot.on('message', event => {
   if (event.message.type !== 'text') return
   if (!api) event.reply('KKBOX fetchAccessToken 中，請稍後再試')
   api.searchFetcher.setSearchCriteria(event.message.text, 'track').fetchSearchResult().then(response => {
-    // console.log(JSON.stringify(response.data, null, 2))
-    console.log(JSON.stringify(response.data.tracks.data[0].name, null, 2))
+    // console.log(response.data.tracks)
+    const replyFlex = JSON.parse(JSON.stringify(flex))
+    for (let i = 0; i < 5; i++) {
+      // 抓專輯連結
+      replyFlex.footer.contents[0].action.uri = JSON.stringify(response.data.tracks.data[i].url, null, 2)
+      // 歌名
+      replyFlex.body.contents[0].text = JSON.stringify(response.data.tracks.data[i].name, null, 2)
+      // JSON.stringify(response.data.tracks.data[i].album.release_date, null, 2)
+      console.log(response.data.tracks.data[i].url)
+      console.log(JSON.stringify(response.data.tracks.data[i].name, null, 2))
+      songs.push(replyFlex)
+    }
   })
+
+  const reply = {
+    type: 'flex',
+    altText: '查詢結果',
+    contents: {
+      type: 'carousel',
+      contents: songs
+    }
+  }
+
+  event.reply(reply)
+  writejson(reply, 'courses')
 })
 
 // api.searchFetcher.setSearchCriteria('五月天 派對動物', 'track').fetchSearchResult().then(response => {
