@@ -1,0 +1,967 @@
+{
+  "data": [
+    {
+      "id": "HX0Iy2U4aXJ8aXfk2J",
+      "name": "Heartstrings",
+      "duration": 211382,
+      "isrc": "GBUM72204080",
+      "url": "https://www.kkbox.com/tw/tc/song/HX0Iy2U4aXJ8aXfk2J",
+      "track_number": 1,
+      "explicitness": false,
+      "available_territories": [
+        "TW",
+        "HK",
+        "SG",
+        "MY",
+        "JP"
+      ],
+      "album": {
+        "id": "8nz7R7d0HSCv0S3Kqc",
+        "name": "Heartstrings",
+        "url": "https://www.kkbox.com/tw/tc/album/8nz7R7d0HSCv0S3Kqc",
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "release_date": "2022-09-09",
+        "images": [
+          {
+            "height": 160,
+            "width": 160,
+            "url": "https://i.kfs.io/album/global/190025976,1v1/fit/160x160.jpg"
+          },
+          {
+            "height": 500,
+            "width": 500,
+            "url": "https://i.kfs.io/album/global/190025976,1v1/fit/500x500.jpg"
+          },
+          {
+            "height": 1000,
+            "width": 1000,
+            "url": "https://i.kfs.io/album/global/190025976,1v1/fit/1000x1000.jpg"
+          }
+        ],
+        "artist": {
+          "id": "4rRRF4aE_yCH--SR8S",
+          "name": "M-22, Ella Henderson",
+          "url": "https://www.kkbox.com/tw/tc/artist/4rRRF4aE_yCH--SR8S",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/artist/global/42431658,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.kfs.io/artist/global/42431658,0v1/fit/300x300.jpg"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "0nR7so08HT59Zhx6cc",
+      "name": "野夏天-電影《野夏天》主題曲",
+      "duration": 234370,
+      "isrc": "TWJ512200002",
+      "url": "https://www.kkbox.com/tw/tc/song/0nR7so08HT59Zhx6cc",
+      "track_number": 1,
+      "explicitness": false,
+      "available_territories": [
+        "TW",
+        "HK",
+        "SG",
+        "MY",
+        "JP"
+      ],
+      "album": {
+        "id": "LXbIGB6jKFATvC5UZP",
+        "name": "野夏天-電影《野夏天》主題曲",
+        "url": "https://www.kkbox.com/tw/tc/album/LXbIGB6jKFATvC5UZP",
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "release_date": "2022-03-03",
+        "images": [
+          {
+            "height": 160,
+            "width": 160,
+            "url": "https://i.kfs.io/album/global/159092823,2v1/fit/160x160.jpg"
+          },
+          {
+            "height": 500,
+            "width": 500,
+            "url": "https://i.kfs.io/album/global/159092823,2v1/fit/500x500.jpg"
+          },
+          {
+            "height": 1000,
+            "width": 1000,
+            "url": "https://i.kfs.io/album/global/159092823,2v1/fit/1000x1000.jpg"
+          }
+        ],
+        "artist": {
+          "id": "D-QquQbI3KbdiULWZV",
+          "name": "高爾宣OSN x Ella陳嘉樺",
+          "url": "https://www.kkbox.com/tw/tc/artist/D-QquQbI3KbdiULWZV",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/artist/global/36931428,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.kfs.io/artist/global/36931428,0v1/fit/300x300.jpg"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "GsBKAveUZ-QUYsiKIg",
+      "name": "All For You",
+      "duration": 221178,
+      "isrc": "GBUM72205355",
+      "url": "https://www.kkbox.com/tw/tc/song/GsBKAveUZ-QUYsiKIg",
+      "track_number": 1,
+      "explicitness": false,
+      "available_territories": [
+        "TW",
+        "HK",
+        "SG",
+        "MY",
+        "JP"
+      ],
+      "album": {
+        "id": "9YdtSs23pTG8InFG2W",
+        "name": "All For You",
+        "url": "https://www.kkbox.com/tw/tc/album/9YdtSs23pTG8InFG2W",
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "release_date": "2022-08-12",
+        "images": [
+          {
+            "height": 160,
+            "width": 160,
+            "url": "https://i.kfs.io/album/global/186742935,1v1/fit/160x160.jpg"
+          },
+          {
+            "height": 500,
+            "width": 500,
+            "url": "https://i.kfs.io/album/global/186742935,1v1/fit/500x500.jpg"
+          },
+          {
+            "height": 1000,
+            "width": 1000,
+            "url": "https://i.kfs.io/album/global/186742935,1v1/fit/1000x1000.jpg"
+          }
+        ],
+        "artist": {
+          "id": "WrtGF9dWI7VXdrQQnI",
+          "name": "Cian Ducrot, Ella Henderson",
+          "url": "https://www.kkbox.com/tw/tc/artist/WrtGF9dWI7VXdrQQnI",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/artist/global/41802790,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.kfs.io/artist/global/41802790,0v1/fit/300x300.jpg"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "GmUIO2ZD7q4F7B1agO",
+      "name": "NOT CUTE",
+      "duration": 152320,
+      "isrc": "QM24S2204879",
+      "url": "https://www.kkbox.com/tw/tc/song/GmUIO2ZD7q4F7B1agO",
+      "track_number": 1,
+      "explicitness": false,
+      "available_territories": [
+        "TW",
+        "HK",
+        "SG",
+        "MY",
+        "JP"
+      ],
+      "album": {
+        "id": "KqpT0Wx6OnJP7VujVF",
+        "name": "NOT CUTE",
+        "url": "https://www.kkbox.com/tw/tc/album/KqpT0Wx6OnJP7VujVF",
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "release_date": "2022-12-02",
+        "images": [
+          {
+            "height": 160,
+            "width": 160,
+            "url": "https://i.kfs.io/album/global/193808560,1v1/fit/160x160.jpg"
+          },
+          {
+            "height": 500,
+            "width": 500,
+            "url": "https://i.kfs.io/album/global/193808560,1v1/fit/500x500.jpg"
+          },
+          {
+            "height": 1000,
+            "width": 1000,
+            "url": "https://i.kfs.io/album/global/193808560,1v1/fit/1000x1000.jpg"
+          }
+        ],
+        "artist": {
+          "id": "Kpb9PVhVg8xEt9_cG0",
+          "name": "Ella Rosa",
+          "url": "https://www.kkbox.com/tw/tc/artist/Kpb9PVhVg8xEt9_cG0",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/artist/global/27974369,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.kfs.io/artist/global/27974369,0v1/fit/300x300.jpg"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "_aMVvy1wAvqjbW27T5",
+      "name": "來個蹦蹦 Ft. Ella 陳嘉樺",
+      "duration": 195683,
+      "isrc": "TWDJ51900019",
+      "url": "https://www.kkbox.com/tw/tc/song/_aMVvy1wAvqjbW27T5",
+      "track_number": 8,
+      "explicitness": false,
+      "available_territories": [
+        "TW",
+        "SG",
+        "MY",
+        "JP"
+      ],
+      "album": {
+        "id": "X-Zmiu4Z0SAEnREh-4",
+        "name": "LOCAL",
+        "url": "https://www.kkbox.com/tw/tc/album/X-Zmiu4Z0SAEnREh-4",
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "release_date": "2020-09-11",
+        "images": [
+          {
+            "height": 160,
+            "width": 160,
+            "url": "https://i.kfs.io/album/tw/86597446,1v1/fit/160x160.jpg"
+          },
+          {
+            "height": 500,
+            "width": 500,
+            "url": "https://i.kfs.io/album/tw/86597446,1v1/fit/500x500.jpg"
+          },
+          {
+            "height": 1000,
+            "width": 1000,
+            "url": "https://i.kfs.io/album/tw/86597446,1v1/fit/1000x1000.jpg"
+          }
+        ],
+        "artist": {
+          "id": "4nKpAH-K2KLL5JlJrF",
+          "name": "玖壹壹",
+          "url": "https://www.kkbox.com/tw/tc/artist/4nKpAH-K2KLL5JlJrF",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/artist/global/2578468,0v10/fit/160x160.jpg"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.kfs.io/artist/global/2578468,0v10/fit/300x300.jpg"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "L--KIC_RXlYLsDol57",
+      "name": "April in Paris",
+      "duration": 395102,
+      "isrc": "DELM41201038",
+      "url": "https://www.kkbox.com/tw/tc/song/L--KIC_RXlYLsDol57",
+      "track_number": 36,
+      "explicitness": false,
+      "available_territories": [
+        "TW",
+        "HK",
+        "SG",
+        "MY",
+        "JP"
+      ],
+      "album": {
+        "id": "XaGIDbP0PrbA5ARKE7",
+        "name": "Simply the Best, Vol. 4",
+        "url": "https://www.kkbox.com/tw/tc/album/XaGIDbP0PrbA5ARKE7",
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "release_date": "2018-05-25",
+        "images": [
+          {
+            "height": 160,
+            "width": 160,
+            "url": "https://i.kfs.io/album/global/33311192,0v1/fit/160x160.jpg"
+          },
+          {
+            "height": 500,
+            "width": 500,
+            "url": "https://i.kfs.io/album/global/33311192,0v1/fit/500x500.jpg"
+          },
+          {
+            "height": 1000,
+            "width": 1000,
+            "url": "https://i.kfs.io/album/global/33311192,0v1/fit/1000x1000.jpg"
+          }
+        ],
+        "artist": {
+          "id": "WlHU0XV5c-7cTR5-Tz",
+          "name": "Ella Fitzgerald (艾拉費茲傑拉)",
+          "url": "https://www.kkbox.com/tw/tc/artist/WlHU0XV5c-7cTR5-Tz",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/artist/global/2094,0v11/fit/160x160.jpg"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.kfs.io/artist/global/2094,0v11/fit/300x300.jpg"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "CsmizJ8t3ZiY0KcMbu",
+      "name": "Deep Down (Acoustic Version) - Acoustic Version",
+      "duration": 188551,
+      "isrc": "DEE862201418",
+      "url": "https://www.kkbox.com/tw/tc/song/CsmizJ8t3ZiY0KcMbu",
+      "track_number": 1,
+      "explicitness": false,
+      "available_territories": [
+        "TW",
+        "HK",
+        "SG",
+        "MY",
+        "JP"
+      ],
+      "album": {
+        "id": "-ktjU3JBzpOHQGXtJc",
+        "name": "Deep Down (Acoustic Version) - Acoustic Version",
+        "url": "https://www.kkbox.com/tw/tc/album/-ktjU3JBzpOHQGXtJc",
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "release_date": "2022-09-09",
+        "images": [
+          {
+            "height": 160,
+            "width": 160,
+            "url": "https://i.kfs.io/album/global/189300836,2v1/fit/160x160.jpg"
+          },
+          {
+            "height": 500,
+            "width": 500,
+            "url": "https://i.kfs.io/album/global/189300836,2v1/fit/500x500.jpg"
+          },
+          {
+            "height": 1000,
+            "width": 1000,
+            "url": "https://i.kfs.io/album/global/189300836,2v1/fit/1000x1000.jpg"
+          }
+        ],
+        "artist": {
+          "id": "X_AP720RnYXJGm7b2l",
+          "name": "Alok, Ella Eyre, Kenny Dope",
+          "url": "https://www.kkbox.com/tw/tc/artist/X_AP720RnYXJGm7b2l",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/artist/global/40060923,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.kfs.io/artist/global/40060923,0v1/fit/300x300.jpg"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "8sebwDrNV0ZqlsvmY4",
+      "name": "Fall 4 u",
+      "duration": 213394,
+      "isrc": "QMDA62244299",
+      "url": "https://www.kkbox.com/tw/tc/song/8sebwDrNV0ZqlsvmY4",
+      "track_number": 1,
+      "explicitness": false,
+      "available_territories": [
+        "TW",
+        "HK",
+        "SG",
+        "MY",
+        "JP"
+      ],
+      "album": {
+        "id": "Ko2VIeq61IXU_OGFo_",
+        "name": "Fall 4 u",
+        "url": "https://www.kkbox.com/tw/tc/album/Ko2VIeq61IXU_OGFo_",
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "release_date": "2022-10-28",
+        "images": [
+          {
+            "height": 160,
+            "width": 160,
+            "url": "https://i.kfs.io/album/global/199895149,3v1/fit/160x160.jpg"
+          },
+          {
+            "height": 500,
+            "width": 500,
+            "url": "https://i.kfs.io/album/global/199895149,3v1/fit/500x500.jpg"
+          },
+          {
+            "height": 1000,
+            "width": 1000,
+            "url": "https://i.kfs.io/album/global/199895149,3v1/fit/1000x1000.jpg"
+          }
+        ],
+        "artist": {
+          "id": "Co9zPSutdysV3hoXol",
+          "name": "Nieve Ella",
+          "url": "https://www.kkbox.com/tw/tc/artist/Co9zPSutdysV3hoXol",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/artist/global/40652282,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.kfs.io/artist/global/40652282,0v1/fit/300x300.jpg"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "P-u6stLWhnTeMJSTMb",
+      "name": "Deep Down",
+      "duration": 165773,
+      "isrc": "DEE862200810",
+      "url": "https://www.kkbox.com/tw/tc/song/P-u6stLWhnTeMJSTMb",
+      "track_number": 1,
+      "explicitness": false,
+      "available_territories": [
+        "TW",
+        "HK",
+        "SG",
+        "MY",
+        "JP"
+      ],
+      "album": {
+        "id": "Gp_nEhxDWop216PoZy",
+        "name": "Deep Down",
+        "url": "https://www.kkbox.com/tw/tc/album/Gp_nEhxDWop216PoZy",
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "release_date": "2022-06-17",
+        "images": [
+          {
+            "height": 160,
+            "width": 160,
+            "url": "https://i.kfs.io/album/global/176437436,2v1/fit/160x160.jpg"
+          },
+          {
+            "height": 500,
+            "width": 500,
+            "url": "https://i.kfs.io/album/global/176437436,2v1/fit/500x500.jpg"
+          },
+          {
+            "height": 1000,
+            "width": 1000,
+            "url": "https://i.kfs.io/album/global/176437436,2v1/fit/1000x1000.jpg"
+          }
+        ],
+        "artist": {
+          "id": "X_AP720RnYXJGm7b2l",
+          "name": "Alok, Ella Eyre, Kenny Dope",
+          "url": "https://www.kkbox.com/tw/tc/artist/X_AP720RnYXJGm7b2l",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/artist/global/40060923,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.kfs.io/artist/global/40060923,0v1/fit/300x300.jpg"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "CsuAOG-t3ZiY1AoX2u",
+      "name": "Let’s Go Home Together",
+      "duration": 208692,
+      "isrc": "GBAHS2100002",
+      "url": "https://www.kkbox.com/tw/tc/song/CsuAOG-t3ZiY1AoX2u",
+      "track_number": 4,
+      "explicitness": false,
+      "available_territories": [
+        "TW",
+        "HK",
+        "SG",
+        "MY",
+        "JP"
+      ],
+      "album": {
+        "id": "5YW7P7rXsLpPwOt9RR",
+        "name": "Everything I Didn’t Say",
+        "url": "https://www.kkbox.com/tw/tc/album/5YW7P7rXsLpPwOt9RR",
+        "explicitness": true,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "release_date": "2022-03-11",
+        "images": [
+          {
+            "height": 160,
+            "width": 160,
+            "url": "https://i.kfs.io/album/global/158865068,1v1/fit/160x160.jpg"
+          },
+          {
+            "height": 500,
+            "width": 500,
+            "url": "https://i.kfs.io/album/global/158865068,1v1/fit/500x500.jpg"
+          },
+          {
+            "height": 1000,
+            "width": 1000,
+            "url": "https://i.kfs.io/album/global/158865068,1v1/fit/1000x1000.jpg"
+          }
+        ],
+        "artist": {
+          "id": "PaO41FTCBoelBoM7-I",
+          "name": "Ella Henderson",
+          "url": "https://www.kkbox.com/tw/tc/artist/PaO41FTCBoelBoM7-I",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/artist/global/2226162,0v4/fit/160x160.jpg"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.kfs.io/artist/global/2226162,0v4/fit/300x300.jpg"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "P_lz0NEKadNriFEcye",
+      "name": "Brave",
+      "duration": 201064,
+      "isrc": "GBAHS2000341",
+      "url": "https://www.kkbox.com/tw/tc/song/P_lz0NEKadNriFEcye",
+      "track_number": 1,
+      "explicitness": false,
+      "available_territories": [
+        "TW",
+        "HK",
+        "SG",
+        "MY",
+        "JP"
+      ],
+      "album": {
+        "id": "KmJktD7qmUrTmMnAt0",
+        "name": "Brave",
+        "url": "https://www.kkbox.com/tw/tc/album/KmJktD7qmUrTmMnAt0",
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "release_date": "2022-01-07",
+        "images": [
+          {
+            "height": 160,
+            "width": 160,
+            "url": "https://i.kfs.io/album/global/139239058,1v1/fit/160x160.jpg"
+          },
+          {
+            "height": 500,
+            "width": 500,
+            "url": "https://i.kfs.io/album/global/139239058,1v1/fit/500x500.jpg"
+          },
+          {
+            "height": 1000,
+            "width": 1000,
+            "url": "https://i.kfs.io/album/global/139239058,1v1/fit/1000x1000.jpg"
+          }
+        ],
+        "artist": {
+          "id": "PaO41FTCBoelBoM7-I",
+          "name": "Ella Henderson",
+          "url": "https://www.kkbox.com/tw/tc/artist/PaO41FTCBoelBoM7-I",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/artist/global/2226162,0v4/fit/160x160.jpg"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.kfs.io/artist/global/2226162,0v4/fit/300x300.jpg"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "H-l9vZrqCJ6qznXQFt",
+      "name": "Emotions",
+      "duration": 192835,
+      "isrc": "GBAHS2101182",
+      "url": "https://www.kkbox.com/tw/tc/song/H-l9vZrqCJ6qznXQFt",
+      "track_number": 1,
+      "explicitness": false,
+      "available_territories": [
+        "TW",
+        "HK",
+        "SG",
+        "MY",
+        "JP"
+      ],
+      "album": {
+        "id": "5YW7P7rXsLpPwOt9RR",
+        "name": "Everything I Didn’t Say",
+        "url": "https://www.kkbox.com/tw/tc/album/5YW7P7rXsLpPwOt9RR",
+        "explicitness": true,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "release_date": "2022-03-11",
+        "images": [
+          {
+            "height": 160,
+            "width": 160,
+            "url": "https://i.kfs.io/album/global/158865068,1v1/fit/160x160.jpg"
+          },
+          {
+            "height": 500,
+            "width": 500,
+            "url": "https://i.kfs.io/album/global/158865068,1v1/fit/500x500.jpg"
+          },
+          {
+            "height": 1000,
+            "width": 1000,
+            "url": "https://i.kfs.io/album/global/158865068,1v1/fit/1000x1000.jpg"
+          }
+        ],
+        "artist": {
+          "id": "PaO41FTCBoelBoM7-I",
+          "name": "Ella Henderson",
+          "url": "https://www.kkbox.com/tw/tc/artist/PaO41FTCBoelBoM7-I",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/artist/global/2226162,0v4/fit/160x160.jpg"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.kfs.io/artist/global/2226162,0v4/fit/300x300.jpg"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "H_DGWi0I6JmyzHhKiR",
+      "name": "Solar Power",
+      "duration": 192626,
+      "isrc": "NZUM72100178",
+      "url": "https://www.kkbox.com/tw/tc/song/H_DGWi0I6JmyzHhKiR",
+      "track_number": 2,
+      "explicitness": false,
+      "available_territories": [
+        "TW",
+        "HK",
+        "SG",
+        "MY"
+      ],
+      "album": {
+        "id": "-l9PaXeGp_79ycu21S",
+        "name": "Solar Power - Deluxe Edition",
+        "url": "https://www.kkbox.com/tw/tc/album/-l9PaXeGp_79ycu21S",
+        "explicitness": true,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "release_date": "2021-11-05",
+        "images": [
+          {
+            "height": 160,
+            "width": 160,
+            "url": "https://i.kfs.io/album/global/142231057,1v1/fit/160x160.jpg"
+          },
+          {
+            "height": 500,
+            "width": 500,
+            "url": "https://i.kfs.io/album/global/142231057,1v1/fit/500x500.jpg"
+          },
+          {
+            "height": 1000,
+            "width": 1000,
+            "url": "https://i.kfs.io/album/global/142231057,1v1/fit/1000x1000.jpg"
+          }
+        ],
+        "artist": {
+          "id": "KkCV9ClinYMj9wAV0s",
+          "name": "Lorde (蘿兒)",
+          "url": "https://www.kkbox.com/tw/tc/artist/KkCV9ClinYMj9wAV0s",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/artist/global/934096,0v9/fit/160x160.jpg"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.kfs.io/artist/global/934096,0v9/fit/300x300.jpg"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "HZstruEyEYKflGmOkt",
+      "name": "Bad News",
+      "duration": 196675,
+      "isrc": "GBAHS2101188",
+      "url": "https://www.kkbox.com/tw/tc/song/HZstruEyEYKflGmOkt",
+      "track_number": 10,
+      "explicitness": false,
+      "available_territories": [
+        "TW",
+        "HK",
+        "SG",
+        "MY",
+        "JP"
+      ],
+      "album": {
+        "id": "5YW7P7rXsLpPwOt9RR",
+        "name": "Everything I Didn’t Say",
+        "url": "https://www.kkbox.com/tw/tc/album/5YW7P7rXsLpPwOt9RR",
+        "explicitness": true,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "release_date": "2022-03-11",
+        "images": [
+          {
+            "height": 160,
+            "width": 160,
+            "url": "https://i.kfs.io/album/global/158865068,1v1/fit/160x160.jpg"
+          },
+          {
+            "height": 500,
+            "width": 500,
+            "url": "https://i.kfs.io/album/global/158865068,1v1/fit/500x500.jpg"
+          },
+          {
+            "height": 1000,
+            "width": 1000,
+            "url": "https://i.kfs.io/album/global/158865068,1v1/fit/1000x1000.jpg"
+          }
+        ],
+        "artist": {
+          "id": "PaO41FTCBoelBoM7-I",
+          "name": "Ella Henderson",
+          "url": "https://www.kkbox.com/tw/tc/artist/PaO41FTCBoelBoM7-I",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/artist/global/2226162,0v4/fit/160x160.jpg"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.kfs.io/artist/global/2226162,0v4/fit/300x300.jpg"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "GmCboNRj7q4F7TC7jA",
+      "name": "來個蹦蹦 (Like Boom Boom)",
+      "duration": 195683,
+      "isrc": "TWDJ51900019",
+      "url": "https://www.kkbox.com/tw/tc/song/GmCboNRj7q4F7TC7jA",
+      "track_number": 1,
+      "explicitness": false,
+      "available_territories": [
+        "TW",
+        "SG",
+        "MY",
+        "JP"
+      ],
+      "album": {
+        "id": "8tGJ2vNMZgqWceaEtR",
+        "name": "來個蹦蹦 (Like Boom Boom)",
+        "url": "https://www.kkbox.com/tw/tc/album/8tGJ2vNMZgqWceaEtR",
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "release_date": "2019-08-16",
+        "images": [
+          {
+            "height": 160,
+            "width": 160,
+            "url": "https://i.kfs.io/album/global/59908741,1v1/fit/160x160.jpg"
+          },
+          {
+            "height": 500,
+            "width": 500,
+            "url": "https://i.kfs.io/album/global/59908741,1v1/fit/500x500.jpg"
+          },
+          {
+            "height": 1000,
+            "width": 1000,
+            "url": "https://i.kfs.io/album/global/59908741,1v1/fit/1000x1000.jpg"
+          }
+        ],
+        "artist": {
+          "id": "4nKpAH-K2KLL5JlJrF",
+          "name": "玖壹壹",
+          "url": "https://www.kkbox.com/tw/tc/artist/4nKpAH-K2KLL5JlJrF",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/artist/global/2578468,0v10/fit/160x160.jpg"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.kfs.io/artist/global/2578468,0v10/fit/300x300.jpg"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "paging": {
+    "offset": 0,
+    "limit": 15,
+    "previous": null,
+    "next": "https://api.kkbox.com/v1.1/search?q=ELLA&territory=TW&type=track&offset=15&limit=15"
+  },
+  "summary": {
+    "total": 500
+  }
+}

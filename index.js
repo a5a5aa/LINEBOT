@@ -37,39 +37,36 @@ bot.on('message', event => {
   if (event.message.type !== 'text') return
   if (!api) event.reply('KKBOX fetchAccessToken 中，請稍後再試')
   api.searchFetcher.setSearchCriteria(event.message.text, 'track').fetchSearchResult().then(response => {
-    // console.log(response.data.tracks)
-    const replyFlex = JSON.parse(JSON.stringify(flex))
-    for (let i = 0; i < 5; i++) {
+    for (let i = 0; i < 12; i++) {
+      // if (event.message.text.includes(response.data.tracks.data[i].album.artist.name)) {
+      const replyFlex = JSON.parse(JSON.stringify(flex))
+      // 抓專輯照片
+      replyFlex.hero.url = response.data.tracks.data[i].album.images[0].url
+      replyFlex.hero.action.uri = response.data.tracks.data[i].album.url
       // 抓專輯連結
-      replyFlex.footer.contents[0].action.uri = JSON.stringify(response.data.tracks.data[i].url, null, 2)
-      // 歌名
-      replyFlex.body.contents[0].text = JSON.stringify(response.data.tracks.data[i].name, null, 2)
-      // JSON.stringify(response.data.tracks.data[i].album.release_date, null, 2)
-      console.log(response.data.tracks.data[i].url)
+      replyFlex.footer.contents[0].action.uri = response.data.tracks.data[i].album.url
+      // 抓專輯名稱
+      replyFlex.body.contents[0].text = response.data.tracks.data[i].album.name
+      // 抓專輯發行日
+      replyFlex.body.contents[1].contents[0].contents[1].text = response.data.tracks.data[i].album.release_date
+      console.log(response.data.tracks.data[0].url)
       console.log(JSON.stringify(response.data.tracks.data[i].name, null, 2))
       songs.push(replyFlex)
     }
-  })
-
-  const reply = {
-    type: 'flex',
-    altText: '查詢結果',
-    contents: {
-      type: 'carousel',
-      contents: songs
+    // }
+    const reply = {
+      type: 'flex',
+      altText: '查詢結果',
+      contents: {
+        type: 'carousel',
+        contents: songs
+      }
     }
-  }
-
-  event.reply(reply)
-  writejson(reply, 'courses')
+    event.reply(reply)
+    writejson(reply, 'courses')
+    writejson(response.data.tracks, 'data')
+  })
 })
-
-// api.searchFetcher.setSearchCriteria('五月天 派對動物', 'track').fetchSearchResult().then(response => {
-//   console.log(response.data)
-// api.searchFetcher.fetchNextPage(response).then(response => {
-//       console.log(response.data)
-//   })
-// })
 
 bot.listen('/', process.env.PORT || 3000, () => {
   console.log('機器人啟動')
