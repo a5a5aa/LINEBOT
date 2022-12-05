@@ -1,15 +1,12 @@
 import 'dotenv/config'
-// import axios from 'axios'
 import linebot from 'linebot'
 import schedule from 'node-schedule'
-// import temp from './templates/temp.js'
+import express from 'express'
 import flex from './templates/flex.js'
 import writejson from './utils/writejson.js'
-
-// import * as kkbox from '@kkbox/kkbox-javascript-developer-sdk'
-
 import kkbox from '@kkbox/kkbox-javascript-developer-sdk'
 
+const app = express()
 const auth = new kkbox.Auth(process.env.CLIENT_ID, process.env.CLIENT_SECRET)
 let accessToken = ''
 let api
@@ -56,7 +53,7 @@ bot.on('message', event => {
     // }
     const reply = {
       type: 'flex',
-      altText: '查詢結果',
+      altText: '專輯查詢結果',
       contents: {
         type: 'carousel',
         contents: songs
@@ -68,6 +65,12 @@ bot.on('message', event => {
   })
 })
 
-bot.listen('/', process.env.PORT || 3000, () => {
+const linebotParser = bot.parser()
+app.post('/', linebotParser)
+app.get('/', (req, res) => {
+  res.status(200).send('ok')
+})
+
+app.listen(process.env.PORT || 3000, () => {
   console.log('機器人啟動')
 })
