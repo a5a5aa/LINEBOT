@@ -1,6 +1,6 @@
 ## <img src="https://i.imgur.com/75hFwfG.png" width="35"> 聽歌吧
-> 你的音樂哈尼~ 歌手專輯快搜，隨心所欲聽歌吧!
-> 加入LINE好友: 搜尋@771mcftk
+> 你的音樂哈尼~ 歌手專輯快搜，隨心所欲聽歌吧!<br>
+> 加入LINE好友: 搜尋@771mcftk<br>
 > 或掃描下方QRcode，輕鬆開始你的聽歌旅程!
 
 <img src="https://i.imgur.com/LJ55Ip4.png" width="200">
