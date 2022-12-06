@@ -1,12 +1,12 @@
 import 'dotenv/config'
 import linebot from 'linebot'
 import schedule from 'node-schedule'
-import express from 'express'
+// import express from 'express'
 import flex from './templates/flex.js'
 import writejson from './utils/writejson.js'
 import kkbox from '@kkbox/kkbox-javascript-developer-sdk'
 
-const app = express()
+// const app = express()
 const auth = new kkbox.Auth(process.env.CLIENT_ID, process.env.CLIENT_SECRET)
 let accessToken = ''
 let api
@@ -65,12 +65,12 @@ bot.on('message', event => {
   })
 })
 
-const linebotParser = bot.parser()
-app.post('/', linebotParser)
-app.get('/', (req, res) => {
-  res.status(200).send('ok')
-})
+// const linebotParser = bot.parser()
+// app.post('/', linebotParser)
+// app.get('/', (req, res) => {
+//   res.status(200).send('ok')
+// })
 
-app.listen(process.env.PORT || 3000, () => {
+bot.listen('/', process.env.PORT || 3000, () => {
   console.log('機器人啟動')
 })
